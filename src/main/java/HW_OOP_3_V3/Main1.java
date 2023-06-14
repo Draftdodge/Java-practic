@@ -1,6 +1,6 @@
 package HW_OOP_3_V3;
 
-public class Main {
+public class Main1 {
     public static void main(String[] args) {
         LinkedList<Integer> list = new LinkedList<>();
         list.add(1);
